@@ -1,8 +1,10 @@
 # Bootcamp Toradex - Inova.USP
 
-Grupo:
+Practical project related to recognition of recyclable materials developed by Toradex to teach how to use the open source Pytorch library with a focus on machine learning.
+
+Group:
 - LUZERN
 
-Participante: 
+Members: 
 - Rodrigo Rodrigues de Castro
 - Leonardo Zaniboni Silva
